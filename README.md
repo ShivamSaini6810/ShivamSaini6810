@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShivamSaini6810
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on a scintific calculaotr project
+- 📫 How to reach me ... email: shivamsaini6810@gmail.com
